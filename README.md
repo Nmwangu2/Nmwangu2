@@ -1,4 +1,4 @@
-# 💫 About Me: my name is Nancy Maina 
+# 💫 About Me: my name is Nancy Wangu Maina 
 <br>    🔭 I studied Data Science at Moringa School<br>    📫 How to reach me: nmwangu@gmail.com<br>    ⚡ Fun fact: Wrangled data is my Favourite data<br>    🐱‍👤 Sports: Badminton<br>    🍿 Movies: More into dystopic sci-fi <br>
 
 
